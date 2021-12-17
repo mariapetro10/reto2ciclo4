@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 
- * @autor fabianhr
+ * @autor maria petro
  */
 
 @Data

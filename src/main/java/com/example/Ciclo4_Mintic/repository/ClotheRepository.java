@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * 
- * @autor fabianhr
+ * @autor maria petro
  */
 @Repository
 public class ClotheRepository {

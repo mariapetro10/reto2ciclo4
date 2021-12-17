@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * 
- * @autor fabianhr
+ * @autor maria petro
  */
 @Service
 public class ClotheService {

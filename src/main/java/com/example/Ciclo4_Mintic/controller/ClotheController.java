@@ -22,7 +22,7 @@ import lombok.Data;
 
 /**
  * 
- * @autor fabianhr
+ * @autor maria petro
  */
 @Data
 @RestController
